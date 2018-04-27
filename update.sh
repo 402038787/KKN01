@@ -28,8 +28,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/794959818/PUBG-Radar-Onekey.git
-cd PUBG-Radar-Onekey/
+git clone https://github.com/329946033/winnerpubg1.git
+cd winnerpubg1.git/
 npm i
 npm i -g pino
 npm install -g forever
